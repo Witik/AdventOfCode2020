@@ -1,0 +1,12 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day1": "node src/day1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
